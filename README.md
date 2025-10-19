@@ -83,7 +83,7 @@ Two months in and already drowning in compiler warnings, errors and too many ope
 
 ![Void's GitHub stats](https://github-readme-stats.vercel.app/api?username=void5879&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void5879&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void5879&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ---
 
