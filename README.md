@@ -15,12 +15,10 @@ Started taking coding seriously like 2 months ago and now I'm here, breaking thi
 
 ### 🤓 The Eternal Student
 
-I'm basically a professional beginner at this point. Two months into serious coding and already neck-deep in machine learning, computer vision, and the beautiful chaos that is the Linux ecosystem. My learning style? Dive into the deep end and hope I can swim.
+I'm basically a professional beginner at this point. Two months into serious coding and already neck-deep in the beautiful chaos that is the Linux ecosystem. My learning style? Dive into the deep end and hope I can swim.
 
 **Current Obsessions:**
-- 🐧 Linux everything (yes, I use Arch btw... jk, but maybe soon?)
-- 🤖 Machine learning models that I barely understand but love to tinker with
-- 👁️ Computer vision because making computers "see" is just cool
+- 🐧 Linux everything (yes, I use Arch btw...)
 - 📚 Reading documentation I don't fully comprehend yet
 - 🔧 Breaking my system and learning how to fix it
 
@@ -28,19 +26,21 @@ I'm basically a professional beginner at this point. Two months into serious cod
 
 ### 🛠️ Tools I'm Learning (and Struggling With)
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<br />
+<img align="left" alt="Nvim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="lua" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 
 #
 
@@ -50,10 +50,10 @@ I'm basically a professional beginner at this point. Two months into serious cod
 class EternalNoob:
     def __init__(self):
         self.name = "Void"
-        self.location = "Kerala, India"
+        self.location = "Doesn't Matter"
         self.coding_seriously_since = "2 months ago"
         self.skill_level = "Imposter syndrome intensifying"
-        self.current_obsession = "Linux ecosystem & ML experiments"
+        self.current_obsession = "Linux ecosystem"
         self.tabs_vs_spaces = "Still figuring this out"
     
     def daily_routine(self):
@@ -76,7 +76,7 @@ Still very much a **student above everything else**. Every project is a learning
 
 Absolutely fascinated by the **Linux ecosystem**—there's something beautiful about having complete control over your system (even if I don't fully understand what I'm doing yet). Currently on that journey from "what's a distro?" to "I have opinions about init systems."
 
-Two months in and already drowning in ML models, computer vision projects, and too many open terminal tabs. The impostor syndrome is real, but so is the excitement of finally understanding that error message after 3 hours of debugging.
+Two months in and already drowning in compiler warnings, errors and too many open terminal tabs. The impostor syndrome is real, but so is the excitement of finally understanding that error message after 3 hours of debugging.
 
 ---
 
@@ -92,7 +92,6 @@ Two months in and already drowning in ML models, computer vision projects, and t
 
 - [ ] Understand what I'm doing (ambitious, I know)
 - [ ] Master the Linux terminal without Googling every command
-- [ ] Build an ML model that actually works
 - [ ] Contribute to open source without embarrassing myself
 - [ ] Exit vim successfully (still working on this one)
 
