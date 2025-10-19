@@ -97,5 +97,5 @@ Two months in and already drowning in compiler warnings, errors and too many ope
 ---
 
 <p align="center">
-  <i>Learning..., one segfault at a time 🐧</i>
+  <i>Learning...one segfault at a time 🐧</i>
 </p>
